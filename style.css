@@ -1,0 +1,96 @@
+/* -----------FORMATAÇÕES GERAIS ----------*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #161316;
+}
+
+
+.footer {
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 1rem;
+}
+/* -----------FORMATAÇÕES GERAIS ----------*/
+
+/*------------ FORMATAÇÕES DOS POSTS -----------*/
+.posts {
+    margin-top: 10rem;
+}
+
+.card-img-top {
+    padding: 1rem;
+}
+
+.carrosel {
+    margin-top: 25px;
+}
+/*------------ FORMATAÇÕES DOS POSTS -----------*/
+
+
+/* -----------FORMATAÇÕES DA Pg News --------*/
+h2 {
+    background-color: #242024;
+    color: white;
+    text-align: center;
+    margin-top: 5rem;
+    padding: 1rem;
+}
+/* -----------FORMATAÇÕES DA Pg News --------*/
+
+
+/* -----------FORMATAÇÕES DA Pg Parcerias --------*/
+.formulario {
+    background-color: #242024;
+    padding: 2rem;
+    margin-top: 2rem;
+    min-height: 100vh;
+}
+
+.pp {
+    text-align: center;
+    color: white;
+}
+
+label {
+    color: white;
+    padding: 1rem;
+}
+
+form-select {
+    margin: 20rem;
+}
+
+#Pcontato {
+    margin-top: 100px;
+}
+
+.canaisDeContato {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+    gap: 100px;
+}
+/* -----------FORMATAÇÕES DA Pg Parcerias --------*/
+#btnIcon {
+    width: 200px;
+    padding: 15px;
+}
+
+#tamImput, #exampleFormControlInput1 {
+    width: 500px;
+    margin-left: 30px;
+}
+
+.canaisDeContatos, p {
+    margin-top: 10px;
+}
+
+.btn, btn-primary {
+    padding: 20px;
+}
